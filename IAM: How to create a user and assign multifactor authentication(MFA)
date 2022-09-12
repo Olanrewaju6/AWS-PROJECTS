@@ -1,0 +1,19 @@
+An IAM user is a resource in IAM that has associated credentials and permissions.
+An IAM user can represent a person or an application that uses its credentials to make AWS request. 
+Multi-factor authentication is used  to increase security and to protect AWS resources.
+
+Steps
+Login to the management console
+search for Identity and Access Management(IAM) and click on it
+Click on users  and click add users
+Put your preferred name and set password
+Attach permissions and click on create user
+Make sure you download the csv so that the user can have access to the details or send it to the user's mail.
+
+TO SET UP MFA
+Click on your preferred user
+Click on security credientials
+You will see assigned MFA click on manage
+Choose the type of MFA device to assign an click continue
+Download authenticator to scan the code displayed and input the code issued by the authenticator
+click on assign MFA.
