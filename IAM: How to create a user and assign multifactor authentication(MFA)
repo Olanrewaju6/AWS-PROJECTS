@@ -17,3 +17,9 @@ You will see assigned MFA click on manage
 Choose the type of MFA device to assign an click continue
 Download authenticator to scan the code displayed and input the code issued by the authenticator
 click on assign MFA.
+
+Steps in assign group to a user
+search for IAM click on it
+click on user group,click on create group at the right side of the page
+put your preferred user group name and add the number of users you wanted to put in the group
+Add permission and click on create group
